@@ -1,0 +1,49 @@
+.games {
+  color: blue; /* or #ff0000 */
+  font-weight: bold;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 15px;
+}
+
+body {
+  background: #eeeeee;
+  font-family: "Segoe UI";
+}
+#wrapper {
+  width: 800px;
+  background: whitesmoke;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0px;
+}
+p {
+  border: 3px solid black;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+#target {
+  color: blue;
+}
+
+img {
+  border-radius: 12px;
+}
+h2 {
+  border-left: 3px solid orange;
+  padding-left: 5px;
+}
+a {
+  color: steelblue;
+}
+a:visited {
+  color: darkblue;
+}
